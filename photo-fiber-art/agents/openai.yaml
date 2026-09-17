@@ -1,0 +1,4 @@
+interface:
+  display_name: "摄影 × 解构纤维刺绣"
+  short_description: "保留原照片，用柔雾毛团、水彩晕染与跨界针脚制作解构刺绣拼贴"
+  default_prompt: "使用 $photo-fiber-art，把这张原照片做成上下拼接的解构纤维刺绣作品。"
